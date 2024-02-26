@@ -1,0 +1,14 @@
+C:\Users\mohanacad01\Desktop\CADBATCH\project\csharp\practice3\dmkfamilydisp\bin\Debug\net7.0\dmkfamilydisp.exe
+C:\Users\mohanacad01\Desktop\CADBATCH\project\csharp\practice3\dmkfamilydisp\bin\Debug\net7.0\dmkfamilydisp.deps.json
+C:\Users\mohanacad01\Desktop\CADBATCH\project\csharp\practice3\dmkfamilydisp\bin\Debug\net7.0\dmkfamilydisp.runtimeconfig.json
+C:\Users\mohanacad01\Desktop\CADBATCH\project\csharp\practice3\dmkfamilydisp\bin\Debug\net7.0\dmkfamilydisp.dll
+C:\Users\mohanacad01\Desktop\CADBATCH\project\csharp\practice3\dmkfamilydisp\bin\Debug\net7.0\dmkfamilydisp.pdb
+C:\Users\mohanacad01\Desktop\CADBATCH\project\csharp\practice3\dmkfamilydisp\obj\Debug\net7.0\dmkfamilydisp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohanacad01\Desktop\CADBATCH\project\csharp\practice3\dmkfamilydisp\obj\Debug\net7.0\dmkfamilydisp.AssemblyInfoInputs.cache
+C:\Users\mohanacad01\Desktop\CADBATCH\project\csharp\practice3\dmkfamilydisp\obj\Debug\net7.0\dmkfamilydisp.AssemblyInfo.cs
+C:\Users\mohanacad01\Desktop\CADBATCH\project\csharp\practice3\dmkfamilydisp\obj\Debug\net7.0\dmkfamilydisp.csproj.CoreCompileInputs.cache
+C:\Users\mohanacad01\Desktop\CADBATCH\project\csharp\practice3\dmkfamilydisp\obj\Debug\net7.0\dmkfamilydisp.dll
+C:\Users\mohanacad01\Desktop\CADBATCH\project\csharp\practice3\dmkfamilydisp\obj\Debug\net7.0\refint\dmkfamilydisp.dll
+C:\Users\mohanacad01\Desktop\CADBATCH\project\csharp\practice3\dmkfamilydisp\obj\Debug\net7.0\dmkfamilydisp.pdb
+C:\Users\mohanacad01\Desktop\CADBATCH\project\csharp\practice3\dmkfamilydisp\obj\Debug\net7.0\dmkfamilydisp.genruntimeconfig.cache
+C:\Users\mohanacad01\Desktop\CADBATCH\project\csharp\practice3\dmkfamilydisp\obj\Debug\net7.0\ref\dmkfamilydisp.dll
