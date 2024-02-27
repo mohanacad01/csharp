@@ -1,0 +1,4 @@
+C:\Users\mohanacad01\Desktop\CADBATCH\project\csharp\practice2\obj\Debug\net7.0\practice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohanacad01\Desktop\CADBATCH\project\csharp\practice2\obj\Debug\net7.0\practice2.AssemblyInfoInputs.cache
+C:\Users\mohanacad01\Desktop\CADBATCH\project\csharp\practice2\obj\Debug\net7.0\practice2.AssemblyInfo.cs
+C:\Users\mohanacad01\Desktop\CADBATCH\project\csharp\practice2\obj\Debug\net7.0\practice2.csproj.CoreCompileInputs.cache
