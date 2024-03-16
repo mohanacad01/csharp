@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DDvO//swYL/NeC+Juk/8grL20AWuOJ1zuSNWH9YBb14=",
+  "Hash": "t78ZstKpHoDrDin6oZld5CGbL8tvKHDWKGHMYa62oT4=",
   "Source": "myproject",
   "BasePath": "_content/myproject",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\myproject\\wwwroot\\images\\imagess.jpg",
+      "SourceId": "myproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\myproject\\wwwroot\\",
+      "BasePath": "_content/myproject",
+      "RelativePath": "images/imagess.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\imagess.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\myproject\\wwwroot\\images\\imagess1.jpg",
+      "SourceId": "myproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\myproject\\wwwroot\\",
+      "BasePath": "_content/myproject",
+      "RelativePath": "images/imagess1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\imagess1.jpg"
     },
     {
       "Identity": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\myproject\\wwwroot\\js\\site.js",

@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\myproject\\wwwroot\\images\\imagess.jpg",
+      "PackagePath": "staticwebassets\\images\\imagess.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\myproject\\wwwroot\\images\\imagess1.jpg",
+      "PackagePath": "staticwebassets\\images\\imagess1.jpg"
+    },
+    {
       "Id": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\myproject\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

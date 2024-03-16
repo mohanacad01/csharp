@@ -1,11 +1,18 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using myproject.Models;
+using Microsoft.Data.SqlClient;
 
 namespace myproject.Controllers;
 
 public class HomeController : Controller
 {
+
+    SqlConnection con=new SqlConnection();
+    SqlCommand com=new SqlCommand();
+    SqlDataReader? dr;
+
+
     private readonly ILogger<HomeController> _logger;
 
     public HomeController(ILogger<HomeController> logger)
@@ -33,6 +40,28 @@ public class HomeController : Controller
         return View();
     }
 
+    void ConnectionString(){
+         con.ConnectionString="data source=192.168.1.240\\SQLEXPRESS; database=master; user ID=CADBATCH01; password=CAD@123pass; TrustServerCertificate=True;";
+    
+    }
+[HttpPost]
+ 
+    public IActionResult VerifyLogin(LoginModel lmodel){
+        ConnectionString();
+        con.Open();
+        com.Connection=con;
+        com.CommandText="SELECT * FROM jp_login where Email='"+lmodel.Email+"'and Password='"+lmodel.Password+"'";
+        dr=com.ExecuteReader();
+
+        if (dr.Read()){
+            con.Close();
+            return View("Create");
+        }
+        else{
+              con.Close();
+             return View("Error");
+        }
+    }
     public IActionResult Register()
     {
         return View();
