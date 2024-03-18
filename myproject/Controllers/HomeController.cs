@@ -41,7 +41,7 @@ public class HomeController : Controller
     }
 
     void ConnectionString(){
-         con.ConnectionString="data source=192.168.1.240\\SQLEXPRESS; database=master; user ID=CADBATCH01; password=CAD@123pass; TrustServerCertificate=True;";
+         con.ConnectionString="data source=192.168.1.240\\SQLEXPRESS; database=cad_jp; user ID=CADBATCH01; password=CAD@123pass; TrustServerCertificate=True;";
     
     }
 [HttpPost]
