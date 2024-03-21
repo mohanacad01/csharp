@@ -62,8 +62,14 @@ public class HomeController : Controller
              return View("Error");
         }
     }
-    public IActionResult Register()
-    {
+    public IActionResult Register(RegisterModel rmodel){
+
+    ConnectionString();
+        con.Open();
+        com.Connection=con;
+        com.CommandText="SELECT * FROM jp_login where Email='"+lmodel.Email+"'and Password='"+lmodel.Password+"'";
+        dr=com.ExecuteReader();
+
         return View();
     }
 

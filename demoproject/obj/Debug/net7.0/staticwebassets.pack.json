@@ -5,48 +5,12 @@
       "PackagePath": "staticwebassets\\demoproject.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\demoproject\\wwwroot\\css\\font-awesome.css",
-      "PackagePath": "staticwebassets\\css\\font-awesome.css"
-    },
-    {
       "Id": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\demoproject\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\demoproject\\wwwroot\\css\\style.css",
-      "PackagePath": "staticwebassets\\css\\style.css"
-    },
-    {
       "Id": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\demoproject\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
-      "Id": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\demoproject\\wwwroot\\font\\FontAwesome.otf",
-      "PackagePath": "staticwebassets\\font\\FontAwesome.otf"
-    },
-    {
-      "Id": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\demoproject\\wwwroot\\font\\fontawesome-webfont.eot",
-      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.eot"
-    },
-    {
-      "Id": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\demoproject\\wwwroot\\font\\fontawesome-webfont.svg",
-      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.svg"
-    },
-    {
-      "Id": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\demoproject\\wwwroot\\font\\fontawesome-webfont.ttf",
-      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.ttf"
-    },
-    {
-      "Id": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\demoproject\\wwwroot\\font\\fontawesome-webfont.woff",
-      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.woff"
-    },
-    {
-      "Id": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\demoproject\\wwwroot\\font\\fontawesome-webfont.woff2",
-      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.woff2"
-    },
-    {
-      "Id": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\demoproject\\wwwroot\\images\\images\\bg2.jpg",
-      "PackagePath": "staticwebassets\\images\\images\\bg2.jpg"
     },
     {
       "Id": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\demoproject\\wwwroot\\js\\site.js",

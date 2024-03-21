@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LuhpCqZ0+e+sl2eG0rVKZR04IXDTfI3gdTL9mKQnJfSX0Jk9pFdbjbKkP+5Qw8CetJV/oKC95CxLee02JK019A==",
+  "dgSpecHash": "oVIh3pSCiZU//sJSC3Px6E5q+KySxO8CTEwl3N7lpPEQkaXt51vxEUI1hIVflULiTFT5TMVp3a1Y87XXZnSOCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\mohanacad01\\Desktop\\CADBATCH\\project\\csharp\\myproject\\myproject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mohanacad01\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\mohanacad01\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\mohanacad01\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\mohanacad01\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\7.0.0\\microsoft.aspnetcore.mvc.razor.runtimecompilation.7.0.0.nupkg.sha512",
+    "C:\\Users\\mohanacad01\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\7.0.4\\microsoft.aspnetcore.mvc.razor.runtimecompilation.7.0.4.nupkg.sha512",
     "C:\\Users\\mohanacad01\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.0\\microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
     "C:\\Users\\mohanacad01\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\mohanacad01\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.2\\microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",

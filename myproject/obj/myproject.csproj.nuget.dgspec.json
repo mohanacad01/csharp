@@ -40,7 +40,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[7.0.4, )"
             },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
